@@ -1,0 +1,4 @@
+- classes for weight, height etc. validation.
+- separate interface from implementation 
+- data recording and perhaps comparison
+- tests
